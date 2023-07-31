@@ -1,6 +1,8 @@
 # solvedac-svg-card
 
-Generates a svg-card for solved ac.
+Generates a status card for solved ac.
+
+SOLVED AC에 있는 나의 정보를 카드로 만들어줍니다.
 
 # TODO
 
@@ -20,14 +22,20 @@ Generates a svg-card for solved ac.
 
 - ex) `<img src="http://cse.syu.kr/api/v1/card?username=test1234" />`
 
-# 티어별 디자인
+# 티어 별 디자인
 
 아래에 있는 카드는 예시를 위한 것뿐 무작위 아이디임을 알려드립니다.
 
-<img src="http://cse.syu.kr/api/v1/card?username=ainta" />
+<img src="http://cse.syu.kr/api/v1/card?username=cki86201" />
 <img src="http://cse.syu.kr/api/v1/card?username=flappybird" />
 <img src="http://cse.syu.kr/api/v1/card?username=devluyten" />
 <img src="http://cse.syu.kr/api/v1/card?username=cdt416z" />
 <img src="http://cse.syu.kr/api/v1/card?username=eunhxa" />
 <img src="http://cse.syu.kr/api/v1/card?username=wjdrh0222" />
 <img src="http://cse.syu.kr/api/v1/card?username=k4n9jun3" />
+
+# FIXED
+
+- 갱신으로 인한 header cache control age 3200초 변경
+
+- 스크린 크기가 작은 경우 클래스 티어 사진 깨짐 해결
