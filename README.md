@@ -39,3 +39,5 @@ SOLVED AC에 있는 나의 정보를 카드로 만들어줍니다.
 - 갱신으로 인한 header cache control age 3200초 변경
 
 - 스크린 크기가 작은 경우 클래스 티어 사진 깨짐 해결
+
+- SSL 인증서 발급 및 적용, HTTP - > HTTPS 보안 문제 해결
