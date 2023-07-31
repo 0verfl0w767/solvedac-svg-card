@@ -24,10 +24,10 @@ Generates a svg-card for solved ac.
 
 아래에 있는 카드는 예시를 위한 것뿐 무작위 아이디임을 알려드립니다.
 
-<img src="http://cse.syu.kr/api/v1/card?username=koosaga" />
-<img src="http://cse.syu.kr/api/v1/card?username=yijw0930" />
-<img src="http://cse.syu.kr/api/v1/card?username=jsa3824" />
-<img src="http://cse.syu.kr/api/v1/card?username=dnlsehdn9779" />
-<img src="http://cse.syu.kr/api/v1/card?username=meh6034" />
-<img src="http://cse.syu.kr/api/v1/card?username=haslip3818" />
-<img src="http://cse.syu.kr/api/v1/card?username=yunho0112" />
+<img src="http://cse.syu.kr/api/v1/card?username=ainta" />
+<img src="http://cse.syu.kr/api/v1/card?username=flappybird" />
+<img src="http://cse.syu.kr/api/v1/card?username=devluyten" />
+<img src="http://cse.syu.kr/api/v1/card?username=cdt416z" />
+<img src="http://cse.syu.kr/api/v1/card?username=eunhxa" />
+<img src="http://cse.syu.kr/api/v1/card?username=wjdrh0222" />
+<img src="http://cse.syu.kr/api/v1/card?username=k4n9jun3" />
