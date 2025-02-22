@@ -37,7 +37,7 @@ params: `username`, `bgc1`, `bgc2`, `bgc3`
 아래에 있는 카드는 예시를 위한 것뿐 무작위로 설정된 아이디 입니다.
 
 <img src="https://boj.profilecard.kr/info?username=cki86201" />
-<img src="https://boj.profilecard.kr/info?username=onjo0127&bgc1=FF0060&bgc2=FFD93D&bgc3=F6F1E9" />
+<img src="https://boj.profilecard.kr/info?username=alex9801&bgc1=FF0060&bgc2=FFD93D&bgc3=F6F1E9" />
 <img src="https://boj.profilecard.kr/info?username=hckim96&bgc1=311D3F&bgc2=A076F9&bgc3=D7BBF5" />
 <img src="https://boj.profilecard.kr/info?username=cdt416z&bgc1=54B435&bgc2=82CD47&bgc3=F0FF42" />
 <img src="https://boj.profilecard.kr/info?username=eunhxa&bgc1=00FFD1&bgc2=00D7FF&bgc3=72FFFF" />
